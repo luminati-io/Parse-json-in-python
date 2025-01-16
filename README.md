@@ -21,8 +21,6 @@ JavaScript Object Notation, or JSON, is a lightweight data-interchange format co
 Here is an example of JSON:
 
 ```json
-print(type(smartphone))
-
 {
   "name": "Maria Smith",
   "age": 32,
@@ -380,7 +378,7 @@ print(user_json_string)
 Run this snippet and you will get:
 
 ```json
-FIXME OUTPUT SNIPPET
+{"name": "John", "surname": "Williams", "age": 48, "city": "New York"}
 ```
 
 > **Note**\
